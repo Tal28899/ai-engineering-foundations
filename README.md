@@ -8,7 +8,7 @@ This repo documents the building-block skills that sit underneath more advanced 
 
 | Folder | What's inside |
 |---|---|
-| [`python-fundamentals/`](./python-fundamentals) | Core Python and OOP practice — syntax, data structures, and object-oriented design fundamentals |
+| [`python-projects/`](./python-fundamentals) | Core Python and OOP practice — syntax, data structures, and object-oriented design fundamentals |
 | [`cli-weather-app/`](./cli-weather-app) | A CLI tool that fetches live weather data via a public API |
 | [`cli-llm-chatbot/`](./cli-llm-chatbot) | A CLI chatbot with conversation history, built on the Groq LLM API |
 
@@ -29,4 +29,4 @@ pip install -r requirements.txt
 ## Contact
 
 **Muhammad Talha** — AI Engineer specializing in RAG & AI Automation
-[LinkedIn](in/muhammadtalhafareed) · [Email](talhafareed0101@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/muhammadtalhafareed) · [Email](mailto:talhafareed0101@gmail.com)
