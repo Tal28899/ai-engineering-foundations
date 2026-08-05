@@ -10,7 +10,8 @@ while True:
         break
     #using the requests library to get the weather data from OpenWeatherMap API
     response = requests.get("https://api.openweathermap.org/data/2.5/weather",
-                        params={"q": city, "appid": API_key, "units": "metric", "lang": "en"})
+                        params={"q": city, "appid": API_key, 
+                                "units": "metric", "lang": "en"})
     # Using error handling to check if the city is found or not
     if response.status_code == 200:
         response_j = response.json()
