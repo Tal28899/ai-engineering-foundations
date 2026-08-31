@@ -1,0 +1,7 @@
+.env
+venv/
+chroma_db/
+chroma_db_tesla_10k/
+__pycache__/
+*.pyc
+.vscode/
